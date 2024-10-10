@@ -155,7 +155,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 text="♔︎ 𝙊𝙒𝙉𝙀𝙍 ♔︎", url="https://t.me/tum_jaha_ham_wahi"
             ),
             InlineKeyboardButton(
-                text=᪥ 𝐀𝐋𝐋 𝐁𝐎𝐓𝐒 ᪥", url="https://t.me/harrysfeel/3"
+                text="᪥ 𝐀𝐋𝐋 𝐁𝐎𝐓𝐒 ᪥", url="https://t.me/harrysfeel/3"
             ),
         ],
         [
