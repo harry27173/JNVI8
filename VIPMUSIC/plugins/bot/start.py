@@ -49,7 +49,7 @@ async def ban_new(client, message):
     chat_name = message.chat.title if message.chat.title else ""
     if await is_banned_user(user_id):
         try:
-            alert_message = f"😳"
+            alert_message = f"✨"
             BAN = await message.chat.ban_member(user_id)
             if BAN:
                 await message.reply_text(alert_message)
@@ -62,7 +62,7 @@ async def ban_new(client, message):
 async def start_comm(client, message: Message, _):
     chat_id = message.chat.id
     await add_served_user(message.from_user.id)
-    await message.react("❤️‍🔥")
+    await message.react("⚡")
     if len(message.text.split()) > 1:
         name = message.text.split(None, 1)[1]
         if name[0:4] == "help":
@@ -245,17 +245,17 @@ async def start_comm(client, message: Message, _):
         await asyncio.sleep(0.2)
         await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐲")
         await asyncio.sleep(0.2)
-        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐲📍.")
+        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐲.")
         await asyncio.sleep(0.2)
-        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐲📍..")
+        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐲🚀..")
         await asyncio.sleep(0.2)
-        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐲📍...")
+        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐲🚀...")
         await asyncio.sleep(0.1)
-        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐲📍.")
+        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐲🚀.")
         await asyncio.sleep(0.1)
-        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐲📍....")
+        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐲🚀....")
         await asyncio.sleep(0.1)
-        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐲📍.")
+        await vips.edit_text("𝐁𝐨𝐭 𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ꨄ︎ 𝐁𝐚𝐛𝐲🚀.")
         
         await vips.delete()
 
@@ -336,7 +336,7 @@ async def welcome(client, message: Message):
             return
 
 
-__MODULE__ = "Boᴛ"
+__MODULE__ = "🖥️ Boᴛ 🖥️"
 __HELP__ = f"""
 <b>✦ c sᴛᴀɴᴅs ғᴏʀ ᴄʜᴀɴɴᴇʟ ᴘʟᴀʏ.</b>
 
