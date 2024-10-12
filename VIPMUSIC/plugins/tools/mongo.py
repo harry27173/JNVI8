@@ -249,7 +249,7 @@ async def transfer_db_command(client, message: Message):
         await message.reply(f"Failed to transfer data: {e}")
 
 
-__MODULE__ = "MongoDB"
+__MODULE__ = "🔗 MongoDB 🔗"
 __HELP__ = """
 **MongoDB Management Commands:**
 
