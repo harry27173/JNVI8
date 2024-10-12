@@ -14,13 +14,13 @@ from VIPMUSIC.utils.database import add_served_chat, get_assistant
     & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/41ec8f174b98e691047f7.png",
+        photo=f"https://graph.org/file/8ad90cde996227a585a3d.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/ll_SARKAR_MERA_BABU_ll")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/tum_jaha_ham_wahi")
                 ]
             ]
         ),
@@ -32,13 +32,13 @@ async def help(client: Client, message: Message):
 async def help(client: Client, message: Message):
     userbot = await get_assistant(chat_id)
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/41ec8f174b98e691047f7.png",
+        photo=f"https://graph.org/file/8ad90cde996227a585a3d.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/ll_SARKAR_MERA_BABU_ll")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/tum_jaha_ham_wahi")
                 ]
             ]
         ),
@@ -49,13 +49,13 @@ async def help(client: Client, message: Message):
     & filters.private)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/41ec8f174b98e691047f7.png",
+        photo=f"https://graph.org/file/8ad90cde996227a585a3d.jpg",
         caption=f"""🍁𝐂𝐋𝐈𝐂𝐊🥰𝐁𝐄𝐋𝐎𝐖💝𝐁𝐔𝐓𝐓𝐎𝐍✨𝐓𝐎🙊𝐆𝐄𝐓🌱𝐑𝐄𝐏𝐎🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/ll_SARKAR_MERA_BABU_ll")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/tum_jaha_ham_wahi")
                 ]
             ]
         ),
@@ -81,7 +81,7 @@ import time
 async def add_all(client, message):
     command_parts = message.text.split(" ")
     if len(command_parts) != 2:
-        await message.reply("**⚠️ ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ ғᴏʀᴍᴀᴛ. ᴘʟᴇᴀsᴇ ᴜsᴇ ʟɪᴋᴇ » `/gadd @ll_RADHA_MUSICBOT`**")
+        await message.reply("**⚠️ ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ ғᴏʀᴍᴀᴛ. ᴘʟᴇᴀsᴇ ᴜsᴇ ʟɪᴋᴇ » `/gadd @magician_music_bot`**")
         return
     
     bot_username = command_parts[1]
