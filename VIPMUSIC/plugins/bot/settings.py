@@ -504,7 +504,7 @@ async def authusers_mar(client, CallbackQuery, _):
         return
 
 
-"""✅<u>Gʀᴏᴜᴘ Sᴇᴛᴛɪɴɢs:</u>
+"""✅<u>Gʀᴏᴜᴘ Sᴇᴛᴛɪɴɢs⚙️ :</u>
 /settings - Gᴇᴛ ᴀ ᴄᴏᴍᴘʟᴇᴛᴇ ɢʀᴏᴜᴘ's sᴇᴛᴛɪɴɢs ᴡɪᴛʜ ɪɴʟɪɴᴇ ʙᴜᴛᴛᴏɴs
 
 🔗 <u>Oᴘᴛɪᴏɴs ɪɴ Sᴇᴛᴛɪɴɢs:</u>
