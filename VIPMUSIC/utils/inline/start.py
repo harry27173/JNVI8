@@ -33,8 +33,8 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url=config.SUPPORT_GROUP),
-            InlineKeyboardButton(text="TG_BIO_STYLE", url=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text="❤️‍🔥 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 ❤️‍🔥", url=config.SUPPORT_GROUP),
+            InlineKeyboardButton(text="⚡ TG_BIO_STYLE ⚡", url=config.SUPPORT_CHANNEL),
         ],
         [
             InlineKeyboardButton(
