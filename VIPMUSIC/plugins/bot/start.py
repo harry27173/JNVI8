@@ -336,7 +336,7 @@ async def welcome(client, message: Message):
             return
 
 
-__MODULE__ = "🖥️ Boᴛ 🖥️"
+__MODULE__ = "🐉 Boᴛ 🐉"
 __HELP__ = f"""
 <b>✦ c sᴛᴀɴᴅs ғᴏʀ ᴄʜᴀɴɴᴇʟ ᴘʟᴀʏ.</b>
 
