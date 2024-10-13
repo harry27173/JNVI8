@@ -33,12 +33,11 @@ async def pause_admin(cli, message: Message, _, chat_id):
     )
 
 
-__MODULE__ = "Pause"
+__MODULE__ = "🚦 Pause 🚦"
 __HELP__ = """
 **Pause Music**
 
 This module allows administrators to pause the music playback in the group.
-
 Commands:
 - /pause: Pause the music playback in groups.
 - /cpause: Pause the music playback in channels.
