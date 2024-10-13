@@ -86,7 +86,7 @@ def stream_markup_timerr(_, videoid, chat_id, played, dur):
                 text="♔︎ 𝙊𝙒𝙉𝙀𝙍 ♔︎", url="https://t.me/tum_jaha_ham_wahi"
             ),
             InlineKeyboardButton(
-                text="᪥ 𝐀𝐋𝐋 𝐁𝐎𝐓𝐒 ᪥", url="https://t.me/harrysfeel/3"
+                text="𖠌 𝐀𝐋𝐋 𝐁𝐎𝐓𝐒 𖠌", url="https://t.me/harrysfeel/3"
             ),
         ],
         [
@@ -155,7 +155,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 text="♔︎ 𝙊𝙒𝙉𝙀𝙍 ♔︎", url="https://t.me/tum_jaha_ham_wahi"
             ),
             InlineKeyboardButton(
-                text="᪥ 𝐀𝐋𝐋 𝐁𝐎𝐓𝐒 ᪥", url="https://t.me/harrysfeel/3"
+                text="𖠌 𝐀𝐋𝐋 𝐁𝐎𝐓𝐒 𖠌", url="https://t.me/harrysfeel/3"
             ),
         ],
         [
@@ -418,7 +418,7 @@ def stream_markup(_, videoid, chat_id):
                 text="♔︎ 𝙊𝙒𝙉𝙀𝙍 ♔︎", url="https://t.me/tum_jaha_ham_wahi"
             ),
             InlineKeyboardButton(
-                text="᪥ 𝐀𝐋𝐋 𝐁𝐎𝐓𝐒 ᪥", url="https://t.me/harrysfeel/3"
+                text="𖠌 𝐀𝐋𝐋 𝐁𝐎𝐓𝐒 𖠌", url="https://t.me/harrysfeel/3"
             ),
         ],
         [
@@ -631,7 +631,7 @@ def stream_markup_timer2(_, chat_id, played, dur):
                 text="♔︎ 𝙊𝙒𝙉𝙀𝙍 ♔︎", url="https://t.me/tum_jaha_ham_wahi"
             ),
             InlineKeyboardButton(
-                text="᪥ 𝐀𝐋𝐋 𝐁𝐎𝐓𝐒 ᪥", url="https://t.me/harrysfeel/3"
+                text="𖠌  𝐀𝐋𝐋 𝐁𝐎𝐓𝐒 𖠌", url="https://t.me/harrysfeel/3"
             ),
         ],
         [
