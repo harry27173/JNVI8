@@ -9,7 +9,7 @@ def start_pannel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="𝐀𝙳𝙳 𝙼𝙴 𝙸𝙽 𝙽𝙴𝚆 𝙶𝚁𝙾𝚄𝙿𝚂",
+                text="😘 𝐀𝙳𝙳 𝙼𝙴 𝙸𝙽 𝙽𝙴𝚆 𝙶𝚁𝙾𝚄𝙿𝚂 💥",
                 url=f"https://t.me/{app.username}?startgroup=true",
             ),
         ],
@@ -28,17 +28,17 @@ def private_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="𝐀𝙳𝙳 𝙼𝙴 𝙸𝙽 𝙽𝙴𝚆 𝙶𝚁𝙾𝚄𝙿𝚂",
+                text="😘 𝐀𝙳𝙳 𝙼𝙴 𝙸𝙽 𝙽𝙴𝚆 𝙶𝚁𝙾𝚄𝙿𝚂 ✨",
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
         [
             InlineKeyboardButton(text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url=config.SUPPORT_GROUP),
-            InlineKeyboardButton(text="𝐌ᴏʀᴇ🥀", url=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text="TG_BIO_STYLE", url=config.SUPPORT_CHANNEL),
         ],
         [
             InlineKeyboardButton(
-                text="𝐒ҽƚƚιɳɠ𝐒", callback_data="settings_back_helper"
+                text="⚙️𝐒ҽƚƚιɳɠ𝐒 ⚙️", callback_data="settings_back_helper"
             )
         ],
     ]
