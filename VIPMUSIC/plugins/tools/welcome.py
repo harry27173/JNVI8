@@ -186,7 +186,7 @@ async def greet_new_member(_, member: ChatMemberUpdated):
 ● ᴜsᴇʀɴᴀᴍᴇ ➥  @{user.username}
 ● ᴜsᴇʀ ɪᴅ ➥  {user.id}
 
-❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ ๛[𓆩◕🇭𝐀𝐑𝐑𝐘◕𓆪 =‌𐏓 𝄗⃝🇮🇳™](https://t.me/tum_jaha_ham_wahi)
+❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ ๛[𓆩◕🇭𝐀𝐑𝐑𝐘◕𓆪 =‌𐏓 𝄗⃝🇮🇳™](https://t.me/ll_ITZ_NAWAB_HERE_ll)
 ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▰
 """,
                 reply_markup=InlineKeyboardMarkup([
