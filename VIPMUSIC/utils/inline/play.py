@@ -83,7 +83,7 @@ def stream_markup_timerr(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="♔︎ 𝙊𝙒𝙉𝙀𝙍 ♔︎", url="https://t.me/tum_jaha_ham_wahi"
+                text="♔︎ 𝙊𝙒𝙉𝙀𝙍 ♔︎", url="https://t.me/ll_ITZ_NAWAB_HERE_ll"
             ),
             InlineKeyboardButton(
                 text="𖠌 𝐀𝐋𝐋 𝐁𝐎𝐓𝐒 𖠌", url="https://t.me/harrysfeel/3"
@@ -91,7 +91,7 @@ def stream_markup_timerr(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="☼︎ 𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 ☼︎", url="https://t.me/tum_jaha_ham_wahi"
+                text="☼︎ 𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 ☼︎", url="https://t.me/ll_ITZ_NAWAB_HERE_ll"
             ),
         ],
     ]
@@ -152,7 +152,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="♔︎ 𝙊𝙒𝙉𝙀𝙍 ♔︎", url="https://t.me/tum_jaha_ham_wahi"
+                text="♔︎ 𝙊𝙒𝙉𝙀𝙍 ♔︎", url="https://t.me/ll_ITZ_NAWAB_HERE_ll"
             ),
             InlineKeyboardButton(
                 text="𖠌 𝐀𝐋𝐋 𝐁𝐎𝐓𝐒 𖠌", url="https://t.me/harrysfeel/3"
@@ -160,7 +160,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="☼︎ 𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 ☼︎", url="https://t.me/tum_jaha_ham_wahi"
+                text="☼︎ 𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 ☼︎", url="https://t.me/ll_ITZ_NAWAB_HERE_ll"
             ),
         ],
     ]
@@ -415,7 +415,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="♔︎ 𝙊𝙒𝙉𝙀𝙍 ♔︎", url="https://t.me/tum_jaha_ham_wahi"
+                text="♔︎ 𝙊𝙒𝙉𝙀𝙍 ♔︎", url="https://t.me/ll_ITZ_NAWAB_HERE_ll"
             ),
             InlineKeyboardButton(
                 text="𖠌 𝐀𝐋𝐋 𝐁𝐎𝐓𝐒 𖠌", url="https://t.me/harrysfeel/3"
@@ -423,7 +423,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="☼︎ 𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 ☼︎", url="https://t.me/tum_jaha_ham_wahi"
+                text="☼︎ 𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 ☼︎", url="https://t.me/ll_ITZ_NAWAB_HERE_ll"
             ),
         ],
      ]
@@ -628,7 +628,7 @@ def stream_markup_timer2(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="♔︎ 𝙊𝙒𝙉𝙀𝙍 ♔︎", url="https://t.me/tum_jaha_ham_wahi"
+                text="♔︎ 𝙊𝙒𝙉𝙀𝙍 ♔︎", url="https://t.me/ll_ITZ_NAWAB_HERE_ll"
             ),
             InlineKeyboardButton(
                 text="𖠌  𝐀𝐋𝐋 𝐁𝐎𝐓𝐒 𖠌", url="https://t.me/harrysfeel/3"
@@ -636,7 +636,7 @@ def stream_markup_timer2(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="☼︎ 𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 ☼︎", url="https://t.me/tum_jaha_ham_wahi"
+                text="☼︎ 𝐏𝐑𝐎𝐌𝐎𝐓𝐈𝐎𝐍 𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 ☼︎", url="https://t.me/ll_ITZ_NAWAB_HERE_ll"
             ),
         ],
 ]
