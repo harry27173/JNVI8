@@ -109,7 +109,14 @@ GIT_TOKEN = getenv(
 AUTO_GCAST = getenv("AUTO_GCAST", "on")
 
 # Auto Broadcast Message That You Want Use In Auto Broadcast In All Groups.
-AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
+AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "𝐏ᴀɪᴅ 𝐏ʀᴏᴍᴏᴛɪᴏɴ 𝐀ᴠᴀɪʟᴀʙʟᴇ 𝐕ɪᴀ 𝐌ᴜsɪᴄ 𝐁ᴏᴛs
+
+[𝐂ʜᴀᴛᴛɴɢ 𝐆ʀᴏᴜᴘs 𝐂ᴏʟᴏʀ 𝐓ʀᴀᴅɪɴɢ 𝐆ᴀᴍᴇs, 𝐂ʜᴀɴɴᴇʟs, 𝐁ᴇᴛᴛɪɴɢ, 𝐀ᴅs 𝐀ɴʏᴛʜɪɴɢ]
+
+𝐏ʀᴏᴍᴏᴛᴇ 𝐀ɴʏᴛʜɪɴɢ 𝐘ᴏᴜ 𝐖ᴀɴᴛ 𝐎ɴ 𝐎ᴜʀ 𝐏ʟᴀᴛғᴏʀᴍ 𝐖ɪᴛʜ 𝐁ᴇsᴛ 𝐑ᴇsᴜʟᴛs.
+𝐃ᴀɪʟʏ, 𝐖ᴇᴇᴋʟʏ, 𝐌ᴏɴᴛʜʟʏ, 𝐏ʟᴀɴs 𝐀ᴠɪᴀɪʟᴀʙʟᴇ.
+
+𝐃ᴍ @ll_SARKAR_MERA_BABU_ll")
 
 
 # Only  Links formats are  accepted for this Var value.
